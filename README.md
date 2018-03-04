@@ -1,9 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>
       Amanda Jimenez
-    </title>
   </head>
   <body>
     <h1>
