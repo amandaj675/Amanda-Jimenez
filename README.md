@@ -1,8 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
-      Amanda Jimenez
-  </head>
   <body>
     <h1>
       Amanda Jimenez
