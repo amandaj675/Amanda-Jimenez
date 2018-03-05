@@ -55,13 +55,14 @@
   <h4>
         The Gateway High School Media Center
   </h4>
-  <ul>
-    <li>2014-2017</li>
-    <li>Resonsibilitites: <ul>
-      <li><p>Organize the Media Center, re-shelve and restock books, place books on pallets and completed paperwork to surplus the books, decorate and maintain the image of the Media Center, input books into the system, and helped check books in and out for students</p></li> </ul>
+    <ul>
+      <li>2014-2017</li>
+      <li>Resonsibilitites: <ul>
+        <li><p>Organize the Media Center, re-shelve and restock books, place books on pallets and completed paperwork to surplus the books, decorate and maintain the image of the Media Center, input books into the system, and helped check books in and out for students</p></li> </ul>
+  </ul>
    <h3>
-      Work History
-    </h3>
+     Work History
+   </h3>
       <h4>
          SNI Companies
       </h4>
@@ -106,7 +107,6 @@
       <p>I am a student at the University of Central Florida and I' m studying to become a Physical Therapist. However, I do enjoy coding and hope that I can do something with it someday. I also love working with my hands so any project that involves making things, typing, or, in the case of my major, helping people overcome their injuries manually, is something that I would thoroughly enjoy doing.
       <h6>
       <p><strong>Contact Information:</strong> <br />
-      Address: 3709 Shawn Circle, Orlando, FL, 32826 <br />
       Email: amandaj675@yahoo.com <br />
       Phone: (407)705-8462</p>
     </h6>
