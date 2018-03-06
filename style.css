@@ -1,3 +1,31 @@
 body {
-background-color: white;
-font-family: 
+  background-color: white;
+  font-family: 'times new roman';
+}
+h1 {
+  color: black;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: right;
+}
+h2 {
+  color: red;
+  font-size: 30px;
+  width: 420px;
+}
+h3 {
+  color: red;
+  font-size: 24px;
+}
+h4 {
+  color: red;
+  font-size: 18px;
+}
+h5 {
+  color: red;
+  font-size: 16px;
+}
+h6 {
+  color: grey;
+  font-size: 12px;
+}
