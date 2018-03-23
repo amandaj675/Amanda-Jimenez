@@ -17,7 +17,7 @@
       <li>Proficient with Microsoft Word, Excel, and PowerPoint</li>
       <li>Strong Communication Skills</li>
       <li>Detail Oriented</li>
-      <li>Knows how to code both html and CSS</li>
+      <li>html and CSS</li>
     </ul>
     <h3>
       Education
