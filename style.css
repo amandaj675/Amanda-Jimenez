@@ -1,38 +1,38 @@
 body {
-  background-color: #181D26;
-  font-family: 'timesnewroman';
+  background-color: #fafafa;
+  font-family: 'Andale Mono';
   margin: 0 auto;
 }
 h1 {
-  color: black;
+  color: #333;
   font-size: 42px;
   font-weight: 600;
   text-align: right;
   position: relative;
 }
 h2 {
-  color: #dc322f;
+  color: #bd2c00;
   font-size: 30px;
   width: 420px;
 }
 h3 {
-  color: black;
+  color: #333;
   font-size: 24px;
 }
 h4 {
-  color: #dc322f;
+  color: #bd2c00;
   font-size: 18px;
 }
 h5 {
-  color: #dc322f;
+  color: #bd2c00;
   font-size: 16px;
 }
 h6 {
-  color: grey;
+  color: #caccd1;
   font-size: 12px;
 }
 p {
-  color: black;
+  color: #333;
   font-size: 16px;
   text-align: center;
   position: fixed;
