@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-  <link rel="stylesheet" type="text/css" href="Resume/style.css">
+  <link href="style.css" rel="stylesheet">
   <body>
     <h1>
       Amanda Jimenez
